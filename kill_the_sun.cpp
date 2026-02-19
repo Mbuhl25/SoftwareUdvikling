@@ -68,7 +68,5 @@ int main() {
 
     std::cout << "✅ Success: The sun has been removed.\n";
     std::cout << "   Tip: If it gets too dark, try: sudo bring-back-sun --dry-run\n\n";
-    std::cout << "Disclaimer: No actual stars were harmed. This is 100% a joke.\n";
-    std::cout << "Have a bright day (ironically)!\n\n";
     return 0;
 }
