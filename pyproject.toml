@@ -8,9 +8,9 @@ authors = [
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
-    "magiccube (>=1.2.0,<2.0.0)",
     "kociemba (>=1.2.1,<2.0.0)",
-    "cube-solver (>=1.1.4,<2.0.0)"
+    "numpy (>=2.4.2,<3.0.0)",
+    "opencv-python (>=4.13.0.92,<5.0.0.0)"
 ]
 
 
