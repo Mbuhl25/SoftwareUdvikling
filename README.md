@@ -18,8 +18,9 @@ Lucas
 Magnus
 Sjællænder
 
-Please make sure to update tests as appropriate.
+## libraries to look at
+[cv2 library](https://pypi.org/project/opencv-python/)
+[kociembra (løs rubiks terninger)](https://pypi.org/project/kociemba/)
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+## Cool video
+[cv2 color detection with webcam](https://www.youtube.com/watch?v=cMJwqxskyek)
